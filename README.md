@@ -4,7 +4,7 @@ Repositorio para aula prática curso de Git RSG Brazil 2026
 ## Como instalar o Git
 Instale o Git no seu terminal. Pode ser instalado tanto em Windows quanto no Linux.
 1) Linux:
-Basta atualizar o sistema, conforme os comandos abaixo (Para distro Ubuntu).
+basta atualizar o sistema, conforme os comandos abaixo (Para distro Ubuntu).
 
 ```/bin/bash
 sudo apt update
@@ -13,10 +13,10 @@ sudo apt install git
 Para outras distros, acesse o [site](https://git-scm.com/install/linux).
 
 2) Windows:
-É facilmente instalável através de download do [site](https://git-scm.com/install/windows).
+é facilmente instalável através de download do [site](https://git-scm.com/install/windows).
 
 3) Mac:
-Pode ser instalado via Xcode, homebrew, MacPorts ou com o download de instalador binário, semelhante ao Windows. Bsata acessar [aqui](https://git-scm.com/install/mac)
+pode ser instalado via Xcode, homebrew, MacPorts ou com o download de instalador binário, semelhante ao Windows. Bsata acessar [aqui](https://git-scm.com/install/mac)
 
 ## Iniciando um projeto
 1) Crie uma conta no GitHub e abra um repositório, acessando "repositories" e clicando em "New" (botão verde). Faça as configurações desejadas. Depois, clone seu repositório em uma pasta local com o comando de exemplo abaixo:
@@ -24,6 +24,15 @@ Pode ser instalado via Xcode, homebrew, MacPorts ou com o download de instalador
 ```/bin/bash
 git clone https://github.com/agnis-iohana/Curso-Git-RSG-2026.git .
 ```
+
+> [!IMPORTANT]
+> Talvez seja necessário configurar seu acesso com um token e/ou configurar o usuário. Para configuração do usuário, realize o comando abaixo:
+> ```/bi/bash
+> git config --global user.name <nome-do-usuario-github>
+> git config --global user.email <email-que-usei-para-o-github>
+> ```
+>
+> Se configurar e não conseguir clonar, então configure seus tokens de acesso em "settings" -> "developer settings -> "Personal access tokens" -> "Generate new token" -> selecione escopos -> Generate token -> copie o toke e cole em bloco de notas -> cole na autenticação de senha.
 
 2) Crie uma nova branch dentro do gitHub ou localmente.
 Para criar a nova branch no GitHub, acesse "Branches" e clique em "New Branch". No seu repositório local, realize os comandos abaixo:
