@@ -45,7 +45,7 @@ Esse comando cria a branch e realiza a troca da main para a branch recém criada
 3) Após acessar a nova branch, trabalhe com seus documentos, scripts e etc.
 
 ## Realizando commits
-O commit é uma forma de documentar as alterações realizadas dentro do repositório. Para verificar quais arquivos foram modificados (deletados, alterados ou acrescentados), você pode acessar o status da chamada "staging area" como o comando *git status*.
+O commit é uma forma de documentar as alterações realizadas dentro do repositório. Para verificar quais arquivos foram modificados (deletados, alterados ou acrescentados), você pode acessar o status da chamada "staging area" com o comando *git status*.
 Após as modificações e verificação com o comando anterior, você pode adicionar os arquivos que deseja no seu index (ou staging area) para serem commitados, conforme comando abaixo:
 
 ```/bin/bash
