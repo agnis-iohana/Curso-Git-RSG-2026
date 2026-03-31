@@ -110,8 +110,8 @@ Após as devidas revisões, correções e commits necessários, você pode fazer
  - Você pode realizar atualizações da branch local via **git pull** caso tenha commitado no repositório online via GitHub.
  - O **git pull** é uma mistura do método *fetch* e *merge*.
  - Você pode abrir *issues* dentro do seu repositório no GitHub e linkar novas branches a elas.
- - Você pode criar grandes projetos com vários repositórios!
-<br />
+ - Você pode criar grandes projetos com vários repositórios!<br />
+
 *Com grandes poderes vêm grandes responsabilidades.* - Tio Ben
 
 
