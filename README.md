@@ -113,5 +113,6 @@ Após as devidas revisões, correções e commits necessários, você pode fazer
  - Você pode criar grandes projetos com vários repositórios!
 <br />
 *Com grandes poderes vêm grandes responsabilidades.* - Tio Ben
-<br />
+
+
 FIM!
