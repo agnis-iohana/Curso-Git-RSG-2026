@@ -103,6 +103,7 @@ Após as devidas revisões, correções e commits necessários, você pode fazer
  - Você pode abrir *issues* dentro do seu repositório no GitHub e linkar novas branches a elas.
  - Você pode criar grandes projetos com vários repositórios!
 
-*Com muitos poderes vem grandes responsabilidades.* - Tio Ben
+*Com grandes poderes vêm grandes responsabilidades.* - Tio Ben
+<img width="640" height="383" alt="image" src="https://github.com/user-attachments/assets/17ad7ffe-9f23-434f-953d-0ea8d3711791" />
 
 FIM!
