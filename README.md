@@ -32,7 +32,7 @@ git clone https://github.com/agnis-iohana/Curso-Git-RSG-2026.git .
 > git config --global user.email <email-que-usei-para-o-github>
 > ```
 >
-> Se configurar e não conseguir clonar, então configure seus tokens de acesso em "settings" -> "developer settings -> "Personal access tokens" -> "Generate new token" -> selecione escopos -> Generate token -> copie o toke e cole em bloco de notas -> cole na autenticação de senha.
+> Se configurar e não conseguir clonar, então configure seus tokens de acesso em "settings" -> "developer settings -> "Personal access tokens" -> "Generate new token" -> selecione escopos -> Generate token -> copie o token e cole em bloco de notas -> cole na autenticação de senha.
 
 2) Crie uma nova branch dentro do gitHub ou localmente.
 Para criar a nova branch no GitHub, acesse "Branches" e clique em "New Branch". No seu repositório local, realize os comandos abaixo:
