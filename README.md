@@ -60,7 +60,7 @@ git add .
 Caso você queira remover um arquivo da staging area, pode realizar o comando abaixo:
 
 ```
-git restore --staged my-unnecessary-name
+git restore --staged my-unnecessary-file
 ```
 O comando *restore* remove o arquivo da staging area, evitando de ser commitado e enviado para o repositório online.
 
