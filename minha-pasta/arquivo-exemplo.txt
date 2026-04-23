@@ -1,0 +1,4 @@
+coluna	coluna2
+mercado	queijo
+farmacia	paracetamol
+farmacia	fralda de bebê
